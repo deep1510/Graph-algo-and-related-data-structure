@@ -1,0 +1,5 @@
+1. It has 2 folders Problem 1 and Problem 2.
+2. For Running Problem 1, For running Main.py file enter the file path of the input data in the file variable and 
+keep Shortestpath.py file in the same directory, So it will get imported as you run the main file.
+3. Similarly do for the Problem 2, enter the path of input file in the file variable in Main.py. 
+4. There are separate folders of the data that are used for testing the code. 
